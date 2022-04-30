@@ -1,0 +1,26 @@
+id;nama;deskripsi;jumlah;rarity
+C1;Dorayaki;Meningkatkan mood dan suasana hati;500;C
+C2;Permen ajaib;Menghilangkan rasa lapar seketika;200;B
+C3;Bom penghenti waktu;Menghentikan waktu dunia sementara;5;S
+C4;Es batu panas;Es batu yang dapat mendidihkan air;250;B
+C5;Vitamin A;memberi nutrisi berupa vitamin A pada tubuh;10000;C
+C6;Vitamin B;memberi nutrisi berupa vitamin B pada tubuh;10000;C
+C7;Vitamin C;memberi nutrisi berupa vitamin C pada tubuh;10000;C
+C8;Vitamin D;memberi nutrisi berupa vitamin D pada tubuh;10000;C
+C9;Vitamin E;memberi nutrisi berupa vitamin E pada tubuh;10000;C
+C10;Vitamin K;memberi nutrisi berupa vitamin K pada tubuh;10000;C
+C11;Vitamin komplit;memberi nutrisi berupa vitamin A, B, C, D, E, dan K pada tubuh;100;A
+C12;pocky penggiat;menambah semangat belajar ;100;A
+C13;Ferero Bulet;salah satu jenis coklat yang enak parah, tentunya menambah kebahagiaan;50;A
+C14;Air Fiji;sebagai salah satu tempat yang belum terjamah teknologi manusia, air dari kepulauan Fiji dipercaya akan kemurniannya.;5;S
+C15;Ramen Desa Konoha;Ramen desa Konoha yang jadi langganan Naruto, menambah stamina.;100;A
+C16;Roti Fotokopi;Roti yang bisa menjiplak halaman buku teks kemudian yang memakannya akan mengingat hal yang tercetak di roti tersebut. ;50;A
+C17;Kopi Xtra Keras;Meningkatkan stamina untuk begadang dengan cara menghambat produksi hormon melatonin pada tubuh yang menyebabkan kantuk.;72;A
+C18;Sedotan Rasa ;Memberi rasa untuk minuman yang tawar.;50;A
+C19;Kripik Singkong Anti Pedas;Membuat pengguna mati rasa ketika memakan makanan pedas setelah mengonsumsi kripik.;87;A
+C20;Coklat Anti Move On;Membuat orang yang mengkonsumsi teringat kenangan bersama mantan.;90;A
+C21;Mie Anti Bully;Membuat kuping orang yg mengkonsumsi tuli sementara untuk menghindari julidan tetangga yang menusuk hati.;5;S
+C22;Nasi Goreng Anti Stress;Anda demot? Ingin menghilang sebentar dari dunia? Silahkan makan nasgor abang-abang ini agar melupakan stress anda sejenak. ;10;S
+C23;Es Krim Anti Galau;Melihat mantan bersama dengan pacar barunya? Tenang aja, langsung konsumsi es krim anti galau, biar mampu melupakan masa lalu. ;15;S
+C24;Kertas Emas Menolak Miskin;Akhir bulan gapunya duit? Oh tenang, konsumsilah kertas emas ini biar merasa sedikit kaya.;25;S
+C25;Bulgogi Tangkap PHP;Membantu mendeteksi dan menangkap tukang PHP ;35;S
